@@ -1,0 +1,7 @@
+.course-container {
+  display: inline-block;
+  margin: 10px;
+  width: 31%;
+  height: auto;
+  text-align: left;
+}
